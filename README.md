@@ -1,5 +1,9 @@
 # PhoenixLeaderboard
 
+### Implementation of Tutorial: <a href="http://www.east5th.co/blog/2016/08/22/meteor-in-front-phoenix-in-back-part-2/">
+METEOR IN FRONT, PHOENIX IN BACK
+</a>
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
